@@ -1,2 +1,2 @@
 # mypackage
-Testing folder structure and imports
+Package setup for testing Python module imports and directory structures.
